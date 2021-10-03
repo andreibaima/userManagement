@@ -12,7 +12,7 @@
 
 #### Sequencia de Passos para executar a aplicação:
 1. Executar o Back-end
-	* Iniciar Microsoft Visual Studio e abrir a solução (GerencimanetoUsers)
+	* Iniciar Microsoft Visual Studio e abrir a solução (GerenciamentoUsers)
 		- Se encontra na Pasta **GerenciamentoUsers**
 2. Executar o Front-End
 	* Iniciar Microsoft Vusual Studio Code
