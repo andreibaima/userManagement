@@ -1,0 +1,12 @@
+1. A solução deve ser disponibilizada em Cloud ou On-premise? 
+	R= Solução deve ser disponibilizada em cloud com acesso por meio de internet.
+
+2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa solução, responda qual ferramenta acreditas ser apropriada para o controle de tarefas da equipe, a ferramenta é ágil? 
+	R= Para o melhor controle de tarefas, poderíamos utilizar o quadro kanbam, visto que através dele toda a equipe tem uma visualização geral das tarefas a serem feitas, das que estão em andamento e das que foram finalizadas, podendo assim usar o trello, ou até mesmo o gitlab para implementação do quadro.
+
+3. Você se sente capaz de liderar esta equipe? Por quê? 
+	R= Sim, sinto preparado, iria escutar o que cada membro teria para falar, explicar como trabalharíamos junto, tentando puxar o melhor de cada um, fazer entender que o trabalho seria em equipe, nem um seria melhor que o outro, todos estariam a disposição para aprender e ensinar.
+4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria? 
+	R=  Acredito que a maneira que o teste é realizado, deixando a pessoa escolher a tecnologia que vai utilizar deixa o candidato super a vontade, não colocaria melhoria, a entrevista antes do teste foi ótima também.
+5. Acha válido esse desafio para o processo que está participando?
+	R= Sim, acho valido, coloca em pratica tanto o conhecimento da parte Técnica como backend e front-End, além de mostrar uma forma de apresentar a estrutura do sistema como o modelo c4.
