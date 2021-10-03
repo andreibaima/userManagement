@@ -1,0 +1,122 @@
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\appsettings.json
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\GerenciamentoUsers.exe
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\GerenciamentoUsers.deps.json
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\GerenciamentoUsers.runtimeconfig.json
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\GerenciamentoUsers.runtimeconfig.dev.json
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\GerenciamentoUsers.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\ref\GerenciamentoUsers.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\GerenciamentoUsers.pdb
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.AssemblyInfo.cs
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\staticwebassets\GerenciamentoUsers.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\staticwebassets\GerenciamentoUsers.StaticWebAssets.xml
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\scopedcss\bundle\GerenciamentoUsers.styles.css
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.csproj.CopyComplete
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\ref\GerenciamentoUsers.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.pdb
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.genruntimeconfig.cache
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\GerenciamentoUsers.exe
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\GerenciamentoUsers.deps.json
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\GerenciamentoUsers.runtimeconfig.json
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\GerenciamentoUsers.runtimeconfig.dev.json
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\GerenciamentoUsers.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\ref\GerenciamentoUsers.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\GerenciamentoUsers.pdb
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.AssemblyInfo.cs
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\staticwebassets\GerenciamentoUsers.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\staticwebassets\GerenciamentoUsers.StaticWebAssets.xml
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\scopedcss\bundle\GerenciamentoUsers.styles.css
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.csproj.CopyComplete
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\ref\GerenciamentoUsers.dll
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.pdb
+C:\Users\User\Documents\Andrei Baima\Projetos\Bemol\GerenciamentoUsers\GerenciamentoUsers\obj\Debug\net5.0\GerenciamentoUsers.genruntimeconfig.cache
