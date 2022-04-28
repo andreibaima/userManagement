@@ -1,6 +1,6 @@
 # User Management
 
-Desafio para a vaga de Software Enginner da Bemol Digital.
+Desafio para a vaga de Software Engineer da Bemol Digital.
 
 #### Ferramentas Utilizadas para o Desenvolvimento da Aplicação:
 * Front-End: Microsoft Visual Studio Code;
